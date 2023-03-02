@@ -1,4 +1,4 @@
-[![RunCode](https://runcode-app-public.s3.amazonaws.com/images/dark_btn.png)](https://3000-curly-bar-01700561.eu-ws3.runcode.io/)
+[![RunCode](https://runcode-app-public.s3.amazonaws.com/images/dark_btn.png)](https://3000-curly-bar-01700561.eu-ws2.runcode.io/)
 
 OpenShot Video Editor is an award-winning free and open-source video editor 
 for Linux, Mac, and Windows, and is dedicated to delivering high quality 
